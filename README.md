@@ -5,7 +5,7 @@ Hey there! 👋 I'm Manu Bharadwaj. If you find this project useful or interesti
 
 ## About Me
 
-I'm Manu Bharadwaj, a passionate Software Engineer. 
+I'm Manu Bharadwaj, a passionate Software Engineer!
 
 ## Features
 
